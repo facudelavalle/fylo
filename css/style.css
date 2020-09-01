@@ -1,0 +1,23 @@
+/* color de fondo: #0c122c
+  color de iconos: 	#697fd3 
+  1 rem = 16px*/
+
+body{
+    background-image: url(../images/bg-desktop.png);
+    background-repeat: no-repeat;
+    background-color: #0c122c;
+    background-position: center bottom;
+    background-attachment: fixed;
+    background-size: 100%;
+    color: white;
+}
+
+.cuadro1{
+    background-color: #1e2c69;
+    width: 23%;
+    height: 28%;
+    position: absolute;
+    left: 20rem;
+    top: 15rem;
+    border-radius: 0.625rem 6.25rem 0.625rem 0.625rem;
+}
